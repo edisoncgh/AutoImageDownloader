@@ -1,0 +1,3 @@
+# AutoImageDownloader
+
+用python实现的，以百度图片为数据源的多线程图片爬取脚本
